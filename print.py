@@ -2,7 +2,9 @@ print("hello world")
 
 # creating a shape
 print(" / |")
+
 print("/__|"), this is print
+
 
 ###VARIABLE AND DATA TYPES####
 
